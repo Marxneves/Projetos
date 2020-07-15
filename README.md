@@ -30,7 +30,7 @@ Projeto de um jogo simples de estourar balões. Tecnologias usadas:
 <li>JavaScript</li>
 </ul>
 
-<a href="https://marxneves.github.io/Projetos/estourando-baloes"> Estourando Balões </a>
+<a href="https://marxneves.github.io/Projetos/estourando_baloes"> Estourando Balões </a>
 <hr>
 
 
