@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 25px;
+    font-size: 20px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid #333;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: #282a36;
+    color: white;
+}
+
+header a{
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: #50fa7b;
+    text-decoration: underline;
+}
+
+#top{
+    max-width: 80%;
+    margin: 20px auto 50px;
+    text-align: center;
+}
+
+#top ul li + li{
+    margin-top: 10px;
+}
+
+#main p{
+    max-width: 800px;
+    margin: 32px auto;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#main img{
+    border-radius: 50%;
+}
+
+#description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer{
+    margin: 30px 0px 0px 0px;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 139, 139,0.1);
+    /* position:absolute;
+    bottom:0;
+    width:100%; */
+}
+
+
+
+ul { 
+    display:table; 
+    margin:0 auto;
+    }
+
+/* Requisitos da aula 2 */
+
+em, strong{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* .js{
+    font-size: 22px;
+}
+
+.html{
+    font-size: 19px;
+}
+
+.css{
+    font-size: 16px;
+}
+
+.c{
+    font-size: 13px;
+} */
+
+/* Requisitos aula 3 */
+
+#main h1{
+    margin-bottom: 30px;
+}
+
+#main{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.left-content{
+    float: left;
+    margin-left: 100px;
+    padding: 5px 5px 1px;
+    background-color: rgba(0, 0, 139,0.2);
+    border-radius: 50%;
+}
+
+.right-content{
+    width: 100%;
+    margin-top: 80px;
+}
+
+.middle{
+    text-align: center; 
+    line-height:25px; 
+    font-size:18px;
+}
+
+.middle-left{
+    width: 50%;  
+    float:left;
+    background-color: rgba(0, 0, 139,0.7); 
+}
+.middle-right{
+    float: right;
+    width: 50%;
+    background-color: rgba(140, 0, 0,0.4);
+}
+
+.bottom{
+    clear: both;
+    margin-top: 280px;
+    text-align: center;
+}
+
+.impar{
+    text-decoration: underline;
+    font-weight: bold;
+}
