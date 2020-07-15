@@ -31,6 +31,19 @@ Projeto de um jogo simples de estourar balões. Tecnologias usadas:
 </ul>
 
 <a href="https://marxneves.github.io/Projetos/estourando_baloes"> Estourando Balões </a>
-<hr>"Made by Marx Khristie.
+<hr>
+
+Projeto de um jogo simples de estourar balões. Tecnologias usadas: 
+<ul>
+<li>HTML</li> 
+<li>CSS</li>
+<li>JavaScript</li>
+<li>JQuery</li>
+</ul>
+
+<a href="https://marxneves.github.io/Projetos/jogo_da_velha"> Estourando Balões </a>
+<hr>
+
+Made by Marx Khristie.
 [Linkedin](https://www.linkedin.com/in/marxkhristie/)
 
